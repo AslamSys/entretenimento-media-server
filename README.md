@@ -1,5 +1,18 @@
 # 📺 Jellyfin Media Server
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Entretenimento (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/entretenimento/README.md)** → **entretenimento-media-server**
+
+### Containers Relacionados (entretenimento)
+- [entretenimento-brain](https://github.com/AslamSys/entretenimento-brain)
+- [entretenimento-radarr-movies](https://github.com/AslamSys/entretenimento-radarr-movies)
+- [entretenimento-sonarr-series](https://github.com/AslamSys/entretenimento-sonarr-series)
+- [entretenimento-bazarr-subtitles](https://github.com/AslamSys/entretenimento-bazarr-subtitles)
+- [entretenimento-streaming-aggregator](https://github.com/AslamSys/entretenimento-streaming-aggregator)
+
+---
+
 **Container:** `media-server`  
 **Stack:** Jellyfin  
 **Storage:** HD 2TB USB 3.0
